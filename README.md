@@ -1,15 +1,11 @@
 # Project Name
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Innopolis University](http://www.google.com).
+
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to provide a baseline sequential model to forecast household power consumption which will further be used as basis to recommend ways to reduce power consumptions
 
-<!-- ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out -->
 
 ### Methods Used
 * Inferential Statistics
@@ -18,13 +14,11 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Predictive Modeling
 
 ### Technologies
-* Python
+* Python 3.x
 * Pandas, jupyter
 * Tensorflow
 * Keras
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Getting Started
 
@@ -51,6 +45,5 @@ To contribute an update simply:
 |---------|-----------------|
 |[Gcinizwe Dlamini](https://github.com/Gci04)| g.dlamini@innopolis.university       |
 
-<!-- |[Full Name](https://github.com/[github handle]) |     @janeDoe    | -->
 
 ## Contact
