@@ -1,4 +1,4 @@
-# Project Name
+# Household Power Consumption Forecast
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Innopolis University](http://www.google.com).
 
 #### -- Project Status: [Active]
