@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 
 def main():
     (xtrain, ytrain, xtest, ytest) = get_data()
-    model = GradientBoostingPredictionIntervals()
+    model = IntervalModelLightGBM()
     model.fit(xtrain,ytrain)
     pred = model.predict(xtest,ytest)
     model.calculate_errors()
