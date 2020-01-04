@@ -1,5 +1,5 @@
 # Household Power Consumption Forecast
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Innopolis University](http://www.google.com).
+This project is a part of [Data Science Working Group](http://google.com) at [Innopolis University](https://university.innopolis.ru/en/).
 
 #### -- Project Status: [Active]
 
@@ -29,6 +29,8 @@ The purpose of this project is to provide a baseline sequential model to forecas
 
 1. Data processing/transformation scripts are being kept [here](src)
 
+1. To run the repository main code nevigate to [scr](src) `cd src` then run `python main.py`. Or Run the .ipynb file [here](src)
+
 ## Contributing to This Repository
 Contributions to this repository are greatly appreciated and encouraged.
 
@@ -39,11 +41,8 @@ To contribute an update simply:
 * Edit this document and the template README.md if needed to describe new files or other important information.
 * Submit a pull request.
 
-#### Members:
+## Members & Contact:
 
-|Name     |  Email  |
+|Name     |  Email          |
 |---------|-----------------|
 |[Gcinizwe Dlamini](https://github.com/Gci04)| g.dlamini@innopolis.university       |
-
-
-## Contact

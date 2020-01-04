@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 from utils import *
-from sklearn.metrics import mean_squared_error
+
 
 def main():
     (xtrain, ytrain, xtest, ytest) = get_data()
