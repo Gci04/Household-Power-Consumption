@@ -18,6 +18,7 @@ The purpose of this project is to provide a baseline sequential model to forecas
 * Pandas, jupyter
 * Tensorflow
 * Keras
+* Plotly
 
 
 ## Getting Started
